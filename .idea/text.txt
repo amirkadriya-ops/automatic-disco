@@ -1,1 +1,2 @@
 Add file.txt
+Добавлена новая строка в Github
